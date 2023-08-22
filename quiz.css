@@ -1,5 +1,5 @@
 body {
-  background-image:url(course.jpg);
+  background-image:url("course.jpg");
   background-color: #03011f;
   font-family: "Source Sans Pro";
   color: #6cacc5;
